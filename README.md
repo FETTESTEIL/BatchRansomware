@@ -1,0 +1,2 @@
+# BatchRansomware
+BatchRansomware-Virus
